@@ -40,4 +40,7 @@ public class ArrayList<T extends Object> implements Collection<T> {
         }
     }
 
+    private void grow() {
+    }
+
 }
